@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Django
+db.sqlite3
+*.sqlite3
+*.log
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Static and media files (if collected/generated)
+staticfiles/
+media/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Migrations (optional, if you want to ignore them)
+# */migrations/*.py
+# !*/migrations/__init__.py
